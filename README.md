@@ -1,6 +1,7 @@
 <code>print("Welcome to my github!")</code>
 <p>🎓 Studying at ESCA </p>
 <p>✈️ Live in Europe</p>
+<p>🎮 15y</p>
 <p>🇺🇸 C2 Fluent English Level</p>
 <p>📚 Studing JS and C#</p>
 
